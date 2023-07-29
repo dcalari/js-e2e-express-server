@@ -1,7 +1,8 @@
 trigger:
 - main
 
-pool: Local
+pool: 
+- Local
   vmImage: 'ubuntu-latest'
 
 steps:
