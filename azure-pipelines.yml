@@ -2,7 +2,7 @@ trigger:
 - main
 
 pool: 
-- Local
+  name: Local
   vmImage: 'ubuntu-latest'
 
 steps:
